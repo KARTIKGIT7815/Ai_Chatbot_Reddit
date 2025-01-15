@@ -96,8 +96,8 @@ Run the script to start the bot. The bot will automatically post content to Redd
 python reddit_ai_bot.py
 ```
 
-- The bot will post content at **9:43 PM** daily.
-- The bot will comment on a post at **9:44 PM** daily.
+- The bot will post content at **9:43 PM** daily.        # you can change time As per requirement
+- The bot will comment on a post at **9:44 PM** daily.   # you can change time As per requirement
 
 You can modify the schedule as needed by changing the times in the code.
 
