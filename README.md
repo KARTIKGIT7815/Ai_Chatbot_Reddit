@@ -1,7 +1,3 @@
-Here's a sample `README.md` file for your project:
-
----
-
 # Reddit AI Content Bot
 
 This project is a Reddit bot that generates and posts daily content on Reddit using Groq's LLM model. It also generates comments on posts in the specified subreddit. The bot is designed to run at scheduled times, ensuring automatic content creation and posting.
